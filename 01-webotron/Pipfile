@@ -12,6 +12,7 @@ ipython = "*"
 pycodestyle = "*"
 pydocs = "*"
 pylint = "*"
+pyflakes = "*"
 
 [requires]
 python_version = "3.8"
