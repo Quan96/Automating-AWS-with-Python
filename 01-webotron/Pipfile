@@ -9,6 +9,9 @@ click = "*"
 
 [dev-packages]
 ipython = "*"
+pycodestyle = "*"
+pydocs = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.8"
