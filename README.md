@@ -11,3 +11,5 @@ WEbotron is currently having these features:
 
 - List bucket
 - List bucket objects
+- Create and set up new bucket
+- Sync file in path with AWS S3 bucket
